@@ -92,7 +92,7 @@ This page, available only to premium users, allows checking the value of a speci
 
 Mockups of the application pages are presented below.
 
-![Mockups](mockup.png)
+![Mockups](image.png)
 
 ### Animations
 
